@@ -58,7 +58,7 @@ citation.
 
 ## Origin
 
-Extracted 2026-08-03 from `ottopoet-thesean`'s own operating rules (a
+Extracted 2026-08-03 from an agent's own operating rules (a
 project-local, always-loaded correction list — see that identity's own
 governance file for the original, project-specific incidents these rules
 were corrected in response to). Generalized here with all project/account/
